@@ -1,5 +1,665 @@
-fil_1: 
-SCP - john philoponus; gross anatomy; body parts; 19th century; civil war; indic scripts; southeast asia; orthodox church; married priests; have been; uefa cup; united states; 1 kings; adverse events; pope honorius; holy land; latin empire; second wife; crime rate; national average; population pyramid; maximum transfer; megabytes per; hydrogen ion; produces its; lee hooker; always respect; tuning pegs; small enough; may be given; world war ii; murder of naboth; peter of courtenay; second and third; louis the child; bosnia and herzegovina; form of english; enough to fit; head of a monastery; below the national average; may be given to any; removal of a hydrogen ion; 
-Dice - john philoponus; most modern; gross anatomy; body parts; 19th century; civil war; indic scripts; southeast asia; orthodox church; married priests; have been; uefa cup; united states; 1 kings; adverse events; pope honorius; holy land; three times; latin empire; second wife; it has; can be; crime rate; national average; population pyramid; maximum transfer; megabytes per; hydrogen ion; produces its; lee hooker; elite boards; always respect; tuning pegs; small enough; may be given; given to any; world war ii; murder of naboth; peter of courtenay; second and third; louis the child; bosnia and herzegovina; form of english; enough to fit; head of a monastery; below the national average; may be given to any; removal of a hydrogen ion; 
-Mi - gross anatomy; 19th century; orthodox church; married priests; holy land; second wife; population pyramid; always respect; tuning pegs; small enough; murder of naboth; peter of courtenay; louis the child; bosnia and herzegovina; form of english; enough to fit; head of a monastery; below the national average; removal of a hydrogen ion; 
+fil_1027: 
+SCP - nova scotia; clinical trials; monacolin k; 35â mg/dl; united states; gte midwest; abraham lincoln; converted to christianity; 
+Dice - nova scotia; clinical trials; monacolin k; 35â mg/dl; united states; gte midwest; abraham lincoln; converted to christianity; 
+Mi - nova scotia; monacolin k; 35â mg/dl; gte midwest; abraham lincoln; converted to christianity; 
+
+fil_1114: 
+SCP - hairpin rna; new york; free agent; massey college; nintendo entertainment; expression of shrna; university of toronto; rose bowl aquatics; 
+Dice - hairpin rna; april 4; new york; free agent; too late; massey college; roman catholic; video game; nintendo entertainment; expression of shrna; university of toronto; rose bowl aquatics; 
+Mi - hairpin rna; massey college; nintendo entertainment; university of toronto; rose bowl aquatics; 
+
+fil_1128: 
+SCP - united states; program aired; west africa; music director; pearl harbor; west coast; 
+Dice - united states; program aired; west africa; music director; pearl harbor; west coast; 
+Mi - west africa; music director; pearl harbor; west coast; 
+
+fil_1147: 
+SCP - rural areas; number ten; i think; fall in love; end of the war; due to the fact; 
+Dice - rural areas; no match; number 10; number ten; ice hockey; i think; same way; she would; fall in love; end of the war; due to the fact; 
+Mi - rural areas; number ten; fall in love; 
+
+fil_1166: 
+SCP - new york; elephant micah; nyâ 252; locust hill; nyâ 65; high school; you can find; 
+Dice - new york; elephant micah; nyâ 252; locust hill; nyâ 65; high school; if you; you can find; 
+Mi - elephant micah; locust hill; nyâ 65; 
+
+fil_1172: 
+SCP - new york; most recently; san diego; supreme court; chief justice; 2010 season; major league baseball; 
+Dice - new york; born february; most recently; san diego; among others; supreme court; chief justice; 2010 season; major league baseball; 
+Mi - 2010 season; major league baseball; 
+
+fil_1217: 
+SCP - new york; pearl harbor; west coast; en route; san francisco; panama canal; old friend; mohammed ali kasim; 
+Dice - new york; pearl harbor; west coast; en route; san francisco; panama canal; york city; old friend; mohammed ali kasim; 
+Mi - pearl harbor; west coast; en route; san francisco; panama canal; old friend; mohammed ali kasim; 
+
+fil_1248: 
+SCP - new york; high school; en route; july 26; soviet union; east side; 3rd baronet; albert einstein; padilla bay; port jefferson branch; 80s and 90s; plans for a new town; 
+Dice - new york; high school; en route; july 26; soviet union; port jefferson; main line; east side; 3rd baronet; new town; popularly known; hindi films; albert einstein; padilla bay; 80s and 90s; plans for a new town; 
+Mi - en route; july 26; soviet union; east side; 3rd baronet; albert einstein; 80s and 90s; plans for a new town; 
+
+fil_1301: 
+SCP - cultural revolution; numerous others; second quarter; head coach; stanley cup; arizona state university; towards the end; end of the season; 
+Dice - cultural revolution; numerous others; second quarter; head coach; cup final; hockey league; arizona state university; towards the end; end of the season; 
+Mi - cultural revolution; numerous others; second quarter; head coach; arizona state university; towards the end; end of the season; 
+
+fil_1303: 
+SCP - united states; high school; san diego; second quarter; duriel harris; ball back; water polo; summer olympics; native country; arizona state university; giving the ball; cutting the deficit; located at the corner; 
+Dice - united states; high school; san diego; second quarter; duriel harris; ball back; plays later; own system; where she; born december; she entered; born 7; water polo; summer olympics; native country; arizona state university; giving the ball; cutting the deficit; oriental dance technique; located at the corner; 
+Mi - second quarter; duriel harris; ball back; arizona state university; giving the ball; cutting the deficit; 1972 summer olympics; located at the corner; 
+
+fil_1322: 
+SCP - nova scotia; summer olympics; philip ii; schottky space; been preserved; encouraged to participate; philip of savoy; 
+Dice - nova scotia; summer olympics; best known; high schools; these include; son philip; philip ii; schottky space; schottky groups; been preserved; encouraged to participate; philip of savoy; 
+Mi - nova scotia; 1972 summer olympics; encouraged to participate; philip of savoy; 
+
+fil_1340: 
+SCP - los angeles; cm long; whose name; le mans; methodist episcopal; advisory committee; dynamo kyiv; 
+Dice - los angeles; cm long; whose name; le mans; many years; methodist episcopal; advisory committee; dynamo kyiv; football team; long afterward; 
+Mi - whose name; le mans; methodist episcopal; dynamo kyiv; 
+
+fil_1341: 
+SCP - new york; high school; upper secondary; track listing; university of illinois; 
+Dice - new york; high school; york city; women's reproductive; six years; three years; upper secondary; good men; track listing; university of illinois; covered the song; one of the best; 
+Mi - track listing; university of illinois; 
+
+fil_1420: 
+SCP - united states; high school; midland avenue; 9th century; trading centre; surrounding area; pocket watch; south wales; resource conservation; historical significance; sesame street; new orleans; rugby football union; school was built; 
+Dice - united states; high school; midland avenue; three children; 9th century; trading centre; surrounding area; pocket watch; south wales; resource conservation; public affairs; if i; historical significance; sesame street; new orleans; rugby football union; school was built; consists of five; 
+Mi - 9th century; surrounding area; pocket watch; resource conservation; historical significance; sesame street; 
+
+fil_145: 
+SCP - united states; prime minister; margaret thatcher; tax reform; space needle; 
+Dice - united states; roman catholic; she would; long afterward; november 4; prime minister; margaret thatcher; would come; tax reform; space needle; 
+Mi - margaret thatcher; tax reform; 
+
+fil_147: 
+SCP - united states; group elements; cape verde; melody line; set up; dawn settlement; carried out; 
+Dice - united states; where she; four years; group elements; cape verde; melody line; set up; dawn settlement; carried out; secondary schools; within the city; 
+Mi - group elements; melody line; carried out; 
+
+fil_15: 
+SCP - united states; new york; philip ii; south wales; trillion rubles; west virginia; persian gulf; english translation; arab countries; october 2013; lay in repose; 
+Dice - united states; new york; philip ii; south wales; information about; trillion rubles; than any; west virginia; december 1990; york times; persian gulf; english translation; arab countries; october 2013; count of flanders; during this time; lay in repose; 
+Mi - persian gulf; english translation; october 2013; new york times; 
+
+fil_1523: 
+SCP - new york; albert einstein; advisory committee; surrounding area; wife muriel; next day; took place; having lost; 
+Dice - new york; albert einstein; advisory committee; surrounding area; wife muriel; december 2009; next day; took place; having lost; further work; later years; 
+Mi - albert einstein; surrounding area; wife muriel; next day; 
+
+fil_1574: 
+SCP - united states; whose name; south wales; liberal party; legislative council; existed before; liberal party of australia; famous for its medieval; 
+Dice - united states; whose name; south wales; liberal party; legislative council; business sectors; existed before; turned out; one of the best; liberal party of australia; famous for its medieval; 
+Mi - whose name; liberal party; existed before; liberal party of australia; 
+
+fil_1593: 
+SCP - new york; high school; crazy frog; niche radius; quantum dots; 80s and 90s; school was built; secretary of state; 
+Dice - new york; high school; york times; crazy frog; second single; music video; boardman high; middle school; playing career; niche radius; quantum dots; 80s and 90s; school was built; there is no; secretary of state; 
+Mi - 80s and 90s; new york times; crazy frog presents; boardman high school; 
+
+fil_1626: 
+SCP - supreme court; july 20; 
+Dice - ice hockey; supreme court; hockey league; born december; july 20; 
+Mi - july 20; 
+
+fil_1704: 
+SCP - federal government; graham norton; bill of rights; 
+Dice - born february; grand jury; federal government; graham norton; bill of rights; 
+Mi - graham norton; 
+
+fil_1718: 
+SCP - united states; high school; been preserved; sea lord; national register; historic places; professional career; perry township; unincorporated community; established in 2003; register of historic; world war ii; listed on the national register; 
+Dice - united states; high school; been preserved; sea lord; national register; historic places; professional career; perry township; unincorporated community; established in 2003; register of historic; world war ii; listed on the national register; 
+Mi - sea lord; national register; historic places; professional career; unincorporated community; established in 2003; register of historic; world war ii; listed on the national register; 
+
+fil_1789: 
+SCP - united states; south wales; set up; united kingdom; star wars; energy efficiency; renewable energy; jornal oficial; regiã£o autã³noma; she competed; market stability working; 
+Dice - united states; she entered; south wales; set up; playing career; united kingdom; star wars; january 2009; energy efficiency; renewable energy; short period; jornal oficial; regiã£o autã³noma; artists such; she competed; market stability working; 
+Mi - star wars; energy efficiency; renewable energy; jornal oficial; regiã£o autã³noma; she competed; market stability working; 
+
+fil_1826: 
+SCP - professional career; secure promotion; following season; tamil nadu; breast clinic; fall in love; film was produced; 
+Dice - york city; many years; six years; professional career; secure promotion; took over; following season; tamil nadu; most important; american college; breast clinic; fall in love; written and directed; film was produced; 
+Mi - professional career; secure promotion; following season; tamil nadu; breast clinic; fall in love; film was produced; 
+
+fil_1918: 
+SCP - federal government; adelaide airways; united nations; helped found; wide variety; rock outcrop; west australian airways; 
+Dice - federal government; adelaide airways; united nations; helped found; wide variety; supports a wide; 
+Mi - adelaide airways; united nations; helped found; wide variety; 
+
+fil_2012: 
+SCP - giro d'italia; awards and honors; 
+Dice - giro d'italia; awards and honors; 
+Mi - giro d'italia; awards and honors; 
+
+fil_2015: 
+SCP - chris dodge; highly successful; igo primo; 19th century; virginia tech foundation; many of them; 
+Dice - turned out; took over; chris dodge; highly successful; igo primo; 19th century; virginia tech foundation; many of them; 
+Mi - highly successful; 19th century; 
+
+fil_2066: 
+SCP - summer olympics; failed attempts; 
+Dice - summer olympics; than any; less than; failed attempts; winter olympics; 
+Mi - failed attempts; 
+
+fil_2076: 
+SCP - high school; badmaash's pieces; club career; prabhat kalavidaru; gopinath dasa; wide range; 
+Dice - high school; middle school; most important; badmaash's pieces; dance moves; club career; early career; general election; prabhat kalavidaru; gopinath dasa; one point; wide range; 
+Mi - badmaash's pieces; prabhat kalavidaru; gopinath dasa; wide range; 
+
+fil_2107: 
+SCP - federal government; national register; historic places; highly successful; compulsory dance; large number; highest honor; article 21; register of historic; george rogers clark; rogers clark national historical; listed on the national register; 
+Dice - december 2009; federal government; national register; historic places; most important; highly successful; compulsory dance; large number; highest honor; difference between; historical park; article 21; register of historic; rogers clark national historical; listed on the national register; 
+Mi - national register; historic places; highly successful; large number; article 21; register of historic; george rogers clark; rogers clark national historical; listed on the national register; 
+
+fil_2149: 
+SCP - new york; tamil nadu; 2006 census; holly j; comes out; saudi arabia; 
+Dice - new york; tamil nadu; 2006 census; holly j; comes out; saudi arabia; 
+Mi - tamil nadu; 2006 census; saudi arabia; 
+
+fil_217: 
+SCP - united states; arab countries; 12th century; us 271; second half; lds bible dictionary; palo de mayo; there are junctions with sh; 
+Dice - united states; if you; information about; arab countries; component image; 12th century; us 271; second half; but i; lds bible dictionary; palo de mayo; there are junctions with sh; 
+Mi - 12th century; second half; lds bible dictionary; palo de mayo; 
+
+fil_2172: 
+SCP - big city; privy council; new zealand; situation semantics; writers such; end of the war; 
+Dice - general election; big city; privy council; took part; second ballot; new zealand; situation theory; situation semantics; writers such; end of the war; 
+Mi - big city; new zealand; situation semantics; 
+
+fil_2232: 
+SCP - next day; mariano rivera; they dropped; baltimore orioles; some criticism; win the next; kansas city royals; 
+Dice - among others; next day; less than; mariano rivera; they dropped; baltimore orioles; some criticism; win the next; kansas city royals; 
+Mi - next day; mariano rivera; they dropped; baltimore orioles; some criticism; kansas city royals; 
+
+fil_2256: 
+SCP - united states; native country; early years; robin hood; veterinary medicine; electricity and magnetism; 
+Dice - united states; native country; early years; robin hood; veterinary medicine; electricity and magnetism; 
+Mi - early years; robin hood; electricity and magnetism; 
+
+fil_2262: 
+SCP - baltimore orioles; chicago bears; bind interleukin; encoded protein; soluble form; splice variant; 
+Dice - born december; three children; american college; baltimore orioles; chicago bears; bind interleukin; encoded protein; soluble form; splice variant; been found; 
+Mi - baltimore orioles; chicago bears; bind interleukin; encoded protein; soluble form; 
+
+fil_234: 
+SCP - united kingdom; dashed stripes; crohn's disease; fourth baron; 
+Dice - united kingdom; dashed stripes; crohn's disease; fourth baron; 
+Mi - dashed stripes; fourth baron; 
+
+fil_2389: 
+SCP - wide range; splice variant; endogenous metabolites; mrna transcript; secretary of state; 
+Dice - these include; wide range; splice variant; endogenous metabolites; mrna transcript; local government; secretary of state; 
+Mi - wide range; endogenous metabolites; 
+
+fil_2424: 
+SCP - west coast; english translation; united kingdom; new zealand; common name; sea snail; marine gastropod; graham land; hughes bay; copper queen; services training academy; training academy of pakistan; 
+Dice - west coast; english translation; united kingdom; new zealand; common name; sea snail; marine gastropod; graham land; hughes bay; copper queen; february 1; training academy of pakistan; 
+Mi - west coast; english translation; new zealand; common name; graham land; hughes bay; copper queen; 
+
+fil_2455: 
+SCP - high school; persian gulf; norrie disease; british forces; franchise history; humans is encoded; protein that in humans; protein that in humans is encoded; 
+Dice - high school; persian gulf; norrie disease; british forces; franchise history; humans is encoded; protein that in humans; protein that in humans is encoded; 
+Mi - persian gulf; norrie disease; british forces; humans is encoded; protein that in humans; protein that in humans is encoded; 
+
+fil_2492: 
+SCP - 18th century; motor buggy; 
+Dice - she would; 18th century; one man; because she; she played; 25 mph; motor buggy; 
+Mi - 18th century; motor buggy; 
+
+fil_254: 
+SCP - i think; ice cream; bone marrow; 
+Dice - i think; recent years; became professor; bone marrow; years later; 
+Mi - 
+
+fil_2546: 
+SCP - free agent; high school; upper secondary; no longer; religious groups; partnership agreement; disabled list; august 21; longer in existence; nix was placed; 
+Dice - free agent; high school; upper secondary; no longer; religious groups; partnership agreement; disabled list; august 21; longer in existence; nix was placed; 
+Mi - no longer; religious groups; partnership agreement; august 21; longer in existence; nix was placed; 
+
+fil_2584: 
+SCP - carried out; wide range; bhikkhuni lineage; mount everest; products and services; 
+Dice - carried out; wide range; years later; bhikkhuni lineage; made up; mount everest; supports a wide; products and services; 
+Mi - carried out; wide range; 
+
+fil_2628: 
+SCP - los angeles; cape verde; miss serbia; eldest son; july 17; 
+Dice - los angeles; football team; november 4; cape verde; took part; company changed; miss serbia; eldest son; july 17; 
+Mi - eldest son; july 17; 
+
+fil_2695: 
+SCP - advisory committee; new party; humans is encoded; university of arizona; protein that in humans; protein that in humans is encoded; 
+Dice - advisory committee; new party; humans is encoded; university of arizona; protein that in humans; protein that in humans is encoded; 
+Mi - humans is encoded; university of arizona; protein that in humans; protein that in humans is encoded; 
+
+fil_274: 
+SCP - new york; united kingdom; bharuch district; following year; passenger services; same year; extended to mitake; changed its name; passenger services were extended; 
+Dice - new york; york city; united kingdom; company changed; bharuch district; following year; passenger services; same year; extended to mitake; changed its name; passenger services were extended; 
+Mi - following year; passenger services; same year; extended to mitake; changed its name; passenger services were extended; 
+
+fil_2766: 
+SCP - new york; took place; same year; north america; comedy film; formerly known; associate professor; rayon of azerbaijan; 
+Dice - new york; took place; grand jury; same year; late summer; north america; same woman; formerly known; associate professor; rayon of azerbaijan; 
+Mi - same year; formerly known; associate professor; 
+
+fil_2799: 
+SCP - united states; san diego; administrative district; south carolina; within busko; åšwiä™tokrzyskie voivodeship; regional capital kielce; due to the fact; village in the administrative; administrative district of gmina; 
+Dice - united states; san diego; public affairs; business sectors; early career; south carolina; within busko; åšwiä™tokrzyskie voivodeship; regional capital kielce; due to the fact; village in the administrative; administrative district of gmina; village has a population; south of the regional capital; 
+Mi - within busko; åšwiä™tokrzyskie voivodeship; regional capital kielce; village in the administrative; village has a population; 
+
+fil_2842: 
+SCP - head coach; star wars; july 19; 
+Dice - no match; head coach; star wars; july 19; 
+Mi - head coach; star wars; july 19; 
+
+fil_2896: 
+SCP - 9th century; liberal party; new party; per cent; doyle house; annie gets; active site; 
+Dice - 9th century; liberal party; playing career; new party; per cent; doyle house; annie gets; active site; 
+Mi - 9th century; liberal party; doyle house; annie gets; active site; 
+
+fil_2933: 
+SCP - summer olympics; common name; 18th century; silver medal; closely related; lebanese nationalism; middle east; santa teresa; rio de janeiro; 
+Dice - summer olympics; common name; 18th century; silver medal; closely related; lebanese nationalism; middle east; santa teresa; april 1; rio de janeiro; view of the city; 
+Mi - common name; 18th century; silver medal; closely related; lebanese nationalism; rio de janeiro; 
+
+fil_2972: 
+SCP - nova scotia; new york; prime minister; united kingdom; personal life; turkish law; state institutions; south africa's; 
+Dice - nova scotia; new york; york city; prime minister; united kingdom; general election; but i; personal life; turkish law; state institutions; deputy prime; south africa's; cool cat's; village has a population; 
+Mi - nova scotia; turkish law; state institutions; village has a population; 
+
+fil_2975: 
+SCP - united states; 3rd baronet; administrative district; highest number; discus throw; awards and honors; greater poland voivodeship; village in the administrative; administrative district of gmina; 
+Dice - united states; born february; 3rd baronet; 10 members; highest number; discus throw; awards and honors; greater poland voivodeship; village in the administrative; administrative district of gmina; 
+Mi - 3rd baronet; highest number; discus throw; awards and honors; greater poland voivodeship; village in the administrative; 
+
+fil_299: 
+SCP - religious groups; north america; fermented cereal; grape wine; rice wines; ancient greek; still used; late 1960s; get involved; parliamentary election; you can find; higher alcohol content; wines are used; position at the university; 
+Dice - same way; religious groups; north america; fermented cereal; rice wine; grape wine; rice wines; ancient greek; still used; made him; late 1960s; get involved; parliamentary election; you can find; higher alcohol content; wines are used; position at the university; 
+Mi - religious groups; grape wine; rice wines; ancient greek; late 1960s; get involved; parliamentary election; higher alcohol content; rice wines are used; position at the university; 
+
+fil_3004: 
+SCP - humans is encoded; protein that in humans; protein that in humans is encoded; 
+Dice - most important; less than; recent years; way back; days later; win over; humans is encoded; protein that in humans; protein that in humans is encoded; 
+Mi - humans is encoded; protein that in humans; protein that in humans is encoded; 
+
+fil_3017: 
+SCP - new york; wide variety; no longer; per cent; decadal growth; west bengal; fort randolph; mississippi river; integrative medicine; longer in existence; located at the corner; 
+Dice - new york; york times; wide variety; no longer; per cent; decadal growth; west bengal; fort randolph; mississippi river; integrative medicine; held every; longer in existence; every two years; located at the corner; 
+Mi - wide variety; no longer; decadal growth; west bengal; fort randolph; mississippi river; integrative medicine; new york times; longer in existence; located at the corner; 
+
+fil_3050: 
+SCP - northern district; january 2005; indiana attorney general; studying in russia; attorney general of office; northern district of indiana; office of the indiana attorney; 
+Dice - indiana university; attorney general; indiana attorney; northern district; january 2005; studying in russia; attorney general of office; northern district of indiana; office of the indiana attorney; 
+Mi - northern district; january 2005; indiana attorney general; studying in russia; northern district of indiana; office of the indiana attorney; 
+
+fil_3082: 
+SCP - 2010 season; people's republic; fake fiancã©; north side; northern territory; helios prototype; 
+Dice - 2010 season; less common; people's republic; fake fiancã©; 1 cable; north side; northern territory; helios prototype; 
+Mi - 2010 season; people's republic; fake fiancã©; north side; 
+
+fil_3105: 
+SCP - free agent; i think; bubble wands; being killed; carriers by 2014; player who is currently; 
+Dice - free agent; ice hockey; i think; less than; held every; been awarded; bubble wands; being killed; carriers by 2014; player who is currently; 
+Mi - bubble wands; being killed; carriers by 2014; 
+
+fil_3119: 
+SCP - numerous others; south wales; personal life; northern territory; co ltd; oyster bay; 
+Dice - numerous others; south wales; personal life; northern territory; co ltd; come back; oyster bay; 
+Mi - numerous others; 
+
+fil_326: 
+SCP - united states; music director; most recently; los angeles; graduate program; november 11; commuter trains; she has worked; famous for its medieval; 
+Dice - united states; music director; most recently; where she; los angeles; short period; years later; graduate program; november 11; commuter trains; period of time; famous for its medieval; 
+Mi - music director; graduate program; november 11; commuter trains; she has worked; 
+
+fil_3284: 
+SCP - track listing; some criticism; whale baleen; united states'; total population; hong kong; gastropod mollusk; order isomorphism; 
+Dice - track listing; but i; some criticism; world series; whale baleen; three levels; united states'; total population; hong kong; gastropod mollusk; order isomorphism; 
+Mi - track listing; some criticism; whale baleen; total population; hong kong; order isomorphism; 
+
+fil_33: 
+SCP - wide variety; spiral arteries; maternal blood; many of them; 
+Dice - wide variety; less common; spiral arteries; maternal blood; take place; many of them; 
+Mi - wide variety; 
+
+fil_3377: 
+SCP - miguel rã­os; racing career; original ultraman; converted to christianity; awards and honors; new world symphony; 
+Dice - music video; miguel rã­os; world symphony; racing career; original ultraman; converted to christianity; awards and honors; 
+Mi - original ultraman; converted to christianity; awards and honors; 
+
+fil_3391: 
+SCP - new york; federal government; january 2005; heavy metals; main sources; studio 23; artificial magnetic conductor; 
+Dice - april 4; new york; among others; federal government; january 2005; frequency range; heavy metals; main sources; she began; studio 23; artificial magnetic conductor; 
+Mi - january 2005; heavy metals; main sources; studio 23; artificial magnetic conductor; 
+
+fil_3393: 
+SCP - per cent; district encompasses; zoo in the palestinian; 
+Dice - if you; per cent; six months; district encompasses; written and directed; zoo in the palestinian; 
+Mi - 
+
+fil_3399: 
+SCP - cultural revolution; february 19; alex reid; unanimous decision; sudden fury; true story; 
+Dice - cultural revolution; february 19; alex reid; pulled out; unanimous decision; sudden fury; true story; 
+Mi - cultural revolution; february 19; unanimous decision; sudden fury; true story; 
+
+fil_3518: 
+SCP - article 356; dead letter; would remain; i hope; electoral redistribution; world war ii; genus of moths; 
+Dice - article 356; dead letter; would remain; i hope; electoral redistribution; world war ii; genus of moths; 
+Mi - article 356; dead letter; i hope; electoral redistribution; world war ii; 
+
+fil_3552: 
+SCP - united states; water polo; took place; united kingdom; north america; synchronised swimming; aquatics championships; gold medal; previous competition; break away; london scottish; very soon; st andrew's; end of the season; 
+Dice - united states; video game; water polo; december 2009; took place; united kingdom; january 2009; north america; synchronised swimming; aquatics championships; gold medal; previous competition; break away; london scottish; very soon; st andrew's; film and television; end of the season; 
+Mi - synchronised swimming; aquatics championships; gold medal; break away; very soon; end of the season; 
+
+fil_359: 
+SCP - free agent; 18th century; deterrent patrol; junie b; been observed; hoary marmots; distinct types; same day; towards the end; player who is currently; 
+Dice - free agent; where she; 18th century; one man; less common; deterrent patrol; junie b; people call; been observed; hoary marmots; distinct types; same day; towards the end; player who is currently; 
+Mi - 18th century; hoary marmots; same day; towards the end; 
+
+fil_3618: 
+SCP - high school; summer olympics; sea snail; marine gastropod; gastropod mollusk; blue saddle; basis graduates; world war ii; 
+Dice - high school; summer olympics; sea snail; marine gastropod; gastropod mollusk; blue saddle; basis graduates; world war ii; 
+Mi - blue saddle; basis graduates; world war ii; 
+
+fil_3634: 
+SCP - baltimore orioles; united states'; gained popularity; million reichsmark; creative advisor; tropical cyclone; tropical cyclones; pacific ocean; kansas city royals; 
+Dice - would come; further work; took over; baltimore orioles; been awarded; come back; world series; united states'; gained popularity; million reichsmark; creative advisor; what they; tropical cyclone; tropical cyclones; pacific ocean; kansas city royals; 
+Mi - baltimore orioles; gained popularity; million reichsmark; creative advisor; tropical cyclone; tropical cyclones; pacific ocean; kansas city royals; 
+
+fil_375: 
+SCP - next day; carbon dioxide; nocturnal species; el camino; 20th century; talk to al; 
+Dice - next day; carbon dioxide; nocturnal species; el camino; 20th century; talk to al; 
+Mi - next day; nocturnal species; 20th century; talk to al; 
+
+fil_3783: 
+SCP - united kingdom; club career; sea snail; marine gastropod; gastropod mollusk; johnny carson; territorial waters; law relating; offences committed; list of episodes; tonight show starring johnny carson; 
+Dice - united kingdom; club career; sea snail; marine gastropod; gastropod mollusk; johnny carson; territorial waters; law relating; offences committed; elementary school; list of episodes; left the band; tonight show starring johnny carson; 
+Mi - johnny carson; law relating; offences committed; list of episodes; tonight show starring johnny carson; 
+
+fil_3820: 
+SCP - west africa; en route; $60 million; old bornu; doing so; 
+Dice - west africa; en route; than any; less than; $60 million; old bornu; doing so; 
+Mi - west africa; en route; 
+
+fil_3839: 
+SCP - united states; advisory committee; carbon dioxide; antarctic names; new hampshire; advisory committee on antarctic names; 
+Dice - united states; many years; advisory committee; carbon dioxide; antarctic names; new hampshire; advisory committee on antarctic; 
+Mi - antarctic names; new hampshire; advisory committee on antarctic names; 
+
+fil_3856: 
+SCP - prime minister; tax reform; carried out; national register; historic places; british forces; august 21; longer gun; panzer iii; four members; register of historic; tinenã§a de benifassã; 
+Dice - popularly known; prime minister; tax reform; carried out; national register; historic places; most important; british forces; august 21; north africa; longer gun; panzer iii; april 2010; four members; register of historic; left the band; tinenã§a de benifassã; 
+Mi - tax reform; carried out; national register; historic places; british forces; august 21; panzer iii; four members; register of historic; tinenã§a de benifassã; 
+
+fil_3860: 
+SCP - break away; windward mark; beat to windward; 
+Dice - break away; what they; windward mark; beat to windward; one of the most; 
+Mi - break away; beat to windward; 
+
+fil_3914: 
+SCP - new york; graham land; hughes bay; parliamentary election; small group; nautical miles; highest point; studied composition; emigrated to canada; 
+Dice - new york; graham land; hughes bay; parliamentary election; small group; nautical miles; highest point; studied composition; she worked; during this time; emigrated to canada; 
+Mi - graham land; hughes bay; parliamentary election; small group; nautical miles; highest point; studied composition; emigrated to canada; 
+
+fil_3931: 
+SCP - get involved; trade name; june 15; london during; talked about; genus of moths; 
+Dice - get involved; been awarded; trade name; june 15; london during; talked about; genus of moths; left the band; 
+Mi - get involved; trade name; june 15; 
+
+fil_3989: 
+SCP - panama canal; los angeles; november 11; early october; massachusetts house; massachusetts house of representatives; 
+Dice - panama canal; los angeles; november 11; early october; massachusetts house; massachusetts house of representatives; 
+Mi - panama canal; november 11; early october; massachusetts house; massachusetts house of representatives; 
+
+fil_4001: 
+SCP - united states; track listing; prime minister; ancient greek; trade name; representation constituency; usâ 74; established in 2003; 
+Dice - united states; track listing; prime minister; second single; ancient greek; trade name; representation constituency; usâ 74; established in 2003; period of time; 
+Mi - track listing; ancient greek; trade name; representation constituency; established in 2003; 
+
+fil_4020: 
+SCP - new york; prime minister; united nations; comedy film; grand prix; ellenberger park; changed its name; ceo and president; john paul ii; 
+Dice - new york; ice hockey; prime minister; york times; united nations; deputy prime; grand prix; ellenberger park; agency through; changed its name; ceo and president; john paul ii; 
+Mi - united nations; ellenberger park; new york times; changed its name; ceo and president; 
+
+fil_4166: 
+SCP - united states; philip ii; united kingdom; tamil nadu; albert museum; bogislaw xiii; ruling duke; university of illinois; victoria and albert museum; 
+Dice - united states; son philip; philip ii; united kingdom; tamil nadu; years later; albert museum; bogislaw xiii; ruling duke; university of illinois; victoria and albert; 
+Mi - tamil nadu; albert museum; bogislaw xiii; ruling duke; university of illinois; victoria and albert museum; 
+
+fil_4205: 
+SCP - los angeles; took place; having lost; highest number; north side; carbon dioxide; london during; pneumatic souls; railway tracks; contributions from individuals; 
+Dice - los angeles; football team; three years; took place; having lost; highest number; north side; carbon dioxide; london during; lost home; pneumatic souls; railway tracks; contributions from individuals; one of the best; 
+Mi - highest number; north side; pneumatic souls; railway tracks; 
+
+fil_4235: 
+SCP - historical significance; national archives; onepager pro; rio de janeiro; archives of singapore; social and economic; 
+Dice - historical significance; national archives; onepager pro; rio de janeiro; archives of singapore; social and economic; 
+Mi - historical significance; national archives; onepager pro; rio de janeiro; archives of singapore; 
+
+fil_427: 
+SCP - west africa; rural areas; high school; trading centre; south wales; prime minister; big city; total population; hong kong; darbhanga division; headquarters of darbhanga; 
+Dice - west africa; rural areas; high school; main line; these include; trading centre; south wales; prime minister; most important; big city; total population; hong kong; six months; darbhanga division; north bihar; while there; headquarters of darbhanga; one of the most; 
+Mi - west africa; rural areas; big city; total population; hong kong; darbhanga division; 
+
+fil_4290: 
+SCP - been observed; 20th century; silver foxes; state variables; ergodyne series; fine arts; overtime play; eye movements; smooth pursuit; ancestral founder; 
+Dice - take place; been observed; 20th century; silver foxes; ergodyne series; overtime play; eye movements; smooth pursuit; ancestral founder; 
+Mi - 20th century; silver foxes; ergodyne series; overtime play; smooth pursuit; ancestral founder; 
+
+fil_4330: 
+SCP - highest honor; comes out; privy council; partnership agreement; july 19; axial ribs; 
+Dice - december 1990; highest honor; comes out; privy council; partnership agreement; july 19; been recorded; axial ribs; occur upon; 
+Mi - partnership agreement; july 19; axial ribs; 
+
+fil_4342: 
+SCP - nintendo entertainment; old friend; took place; eldest son; july 17; same day; grand prix; czech republic; di resta; both drivers; rip your; tech n9ne; 
+Dice - video game; nintendo entertainment; old friend; took place; music video; eldest son; july 17; same day; grand prix; czech republic; di resta; both drivers; rip your; 
+Mi - nintendo entertainment; old friend; eldest son; july 17; same day; czech republic; di resta; rip your; 
+
+fil_435: 
+SCP - new york; high school; set up; new zealand; true story; white fir; 750â kv; generator transformer; unit transformer; má»¹ sæ¡n; 
+Dice - new york; high school; york city; set up; new zealand; been found; made him; true story; animated film; white fir; 750â kv; generator transformer; unit transformer; má»¹ sæ¡n; covered the song; 
+Mi - new zealand; true story; white fir; 750â kv; generator transformer; unit transformer; má»¹ sæ¡n; 
+
+fil_4424: 
+SCP - new york; program aired; took place; north side; june 15; fort stockton; tennis tournament; clay courts; monte carlo; no faults; ã‡amlä±ca hill; eastern parkway; riders had no faults; 
+Dice - new york; program aired; took place; north side; june 15; fort stockton; tennis tournament; clay courts; monte carlo; second round; no faults; ã‡amlä±ca hill; eastern parkway; within the city; riders had no faults; 
+Mi - north side; june 15; fort stockton; tennis tournament; clay courts; monte carlo; no faults; ã‡amlä±ca hill; eastern parkway; riders had no faults; 
+
+fil_4453: 
+SCP - united states; still used; sault ste; powerhouse wrestling; model fits; calculated expected frequencies; 
+Dice - united states; still used; days later; agency through; sault ste; powerhouse wrestling; model fits; during this time; then the model; calculated expected frequencies; 
+Mi - sault ste; powerhouse wrestling; model fits; calculated expected frequencies; 
+
+fil_4455: 
+SCP - july 26; took place; following year; middle east; february 19; tennis tournament; clay courts; alba iulia; rhythmic arm; arm swing; early life; roman catholic archdiocese; 
+Dice - roman catholic; july 26; took place; following year; middle east; win over; february 19; tennis tournament; clay courts; february 2012; alba iulia; rhythmic arm; arm swing; early life; 
+Mi - july 26; following year; february 19; tennis tournament; clay courts; alba iulia; arm swing; early life; roman catholic archdiocese; 
+
+fil_4467: 
+SCP - $60 million; early part; twentieth century; sexual health; second season; montrã©al division no; 
+Dice - $60 million; montrã©al division; early part; twentieth century; sexual health; second season; 
+Mi - early part; twentieth century; sexual health; montrã©al division no; 
+
+fil_4532: 
+SCP - been observed; distinct types; sharply criticized; specific muscles; chemical energy; 
+Dice - been observed; distinct types; sharply criticized; specific muscles; chemical energy; one of the most; 
+Mi - sharply criticized; specific muscles; chemical energy; 
+
+fil_4573: 
+SCP - summer olympics; she competed; personal life; racing career; contributions from individuals; 
+Dice - where she; summer olympics; artists such; she competed; personal life; racing career; september 22; they won; contributions from individuals; 
+Mi - she competed; 
+
+fil_4613: 
+SCP - national register; historic places; following season; grand prix; early life; adidas brazuca; hussein kamel; unsuccessful candidate; register of historic; fifa world cup; listed on the national register; 
+Dice - cup final; these include; national register; historic places; following season; made up; grand prix; early life; adidas brazuca; hussein kamel; unsuccessful candidate; register of historic; fifa world cup; listed on the national register; 
+Mi - national register; historic places; following season; early life; adidas brazuca; unsuccessful candidate; register of historic; fifa world cup; listed on the national register; 
+
+fil_464: 
+SCP - new york; surrounding area; writers such; august 21; hong kong; second season; fictional characters; august 31; mental illness; william morris hunt; began in 2000; southern ontario gothic; 
+Dice - new york; three years; good men; surrounding area; writers such; years later; august 21; world series; hong kong; second season; fictional characters; august 31; mental illness; william morris hunt; began in 2000; one of the most; 
+Mi - surrounding area; august 21; hong kong; fictional characters; august 31; mental illness; began in 2000; 
+
+fil_4720: 
+SCP - upper secondary; national register; historic places; 2006 census; generations per; saveh county; markazi province; became responsible; register of historic; 
+Dice - upper secondary; national register; historic places; 2006 census; generations per; saveh county; markazi province; became responsible; register of historic; 
+Mi - national register; historic places; 2006 census; generations per; saveh county; markazi province; became responsible; register of historic; 
+
+fil_4756: 
+SCP - late 1960s; massachusetts house; fictional characters; wind dancer; executive producer; future soul; she has worked; massachusetts house of representatives; 
+Dice - best known; artists such; late 1960s; she worked; massachusetts house; animated film; fictional characters; wind dancer; executive producer; future soul; film and television; massachusetts house of representatives; 
+Mi - late 1960s; massachusetts house; fictional characters; wind dancer; executive producer; future soul; she has worked; massachusetts house of representatives; 
+
+fil_4823: 
+SCP - wide variety; failed attempts; car no; veteran bandit; sierra leone; onto the tracks; 
+Dice - wide variety; failed attempts; car no; veteran bandit; sierra leone; onto the tracks; 
+Mi - wide variety; failed attempts; car no; veteran bandit; sierra leone; onto the tracks; 
+
+fil_4837: 
+SCP - resource conservation; took place; very soon; nautical miles; mentally handicapped; dead birds; unable to get; get a job; department of psychology; university of texas; position at the university; job at the university; unable to get a job; 
+Dice - resource conservation; took place; took part; because she; she began; very soon; nautical miles; while there; mentally handicapped; dead birds; unable to get; get a job; department of psychology; university of texas; position at the university; job at the university; unable to get a job; 
+Mi - resource conservation; very soon; nautical miles; mentally handicapped; unable to get; get a job; department of psychology; university of texas; position at the university; job at the university; unable to get a job; 
+
+fil_493: 
+SCP - north america; sault ste; early life; fictional characters; affiliate wccb; began in 2000; 
+Dice - north america; sault ste; early life; fictional characters; affiliate wccb; began in 2000; 
+Mi - sault ste; early life; fictional characters; began in 2000; 
+
+fil_4939: 
+SCP - took place; robin hood; falcon 1; beet sugar; no evidence; 
+Dice - took place; robin hood; falcon 1; beet sugar; no evidence; there is no; 
+Mi - robin hood; falcon 1; no evidence; 
+
+fil_4947: 
+SCP - 12th century; second half; tagaytay city; garden of eden; decides to eat; 
+Dice - among others; 12th century; second half; she played; way back; september 22; tagaytay city; garden of eden; decides to eat; 
+Mi - 12th century; second half; tagaytay city; garden of eden; decides to eat; 
+
+fil_4949: 
+SCP - san francisco; helped found; saudi arabia; early october; august 31; national championships; encouraged to participate; oriya language poet; legs will be played; 
+Dice - san francisco; helped found; saudi arabia; early october; second round; august 31; national championships; legs will; encouraged to participate; oriya language poet; legs will be played; 
+Mi - san francisco; helped found; saudi arabia; early october; august 31; national championships; encouraged to participate; oriya language poet; legs will be played; 
+
+fil_5028: 
+SCP - 
+Dice - information about; 
+Mi - 
+
+fil_5042: 
+SCP - october 2013; north america; state institutions; czech republic; golden eagles; hen harriers; northern goshawks; adult grouse; 
+Dice - born 7; october 2013; late summer; north america; state institutions; czech republic; golden eagles; hen harriers; northern goshawks; adult grouse; 
+Mi - october 2013; state institutions; czech republic; hen harriers; northern goshawks; 
+
+fil_516: 
+SCP - south carolina; major league baseball; many of them; inheritance of montrã©al; chicago white sox; 
+Dice - later years; south carolina; december 6; major league baseball; many of them; inheritance of montrã©al; chicago white sox; 
+Mi - major league baseball; chicago white sox; 
+
+fil_5178: 
+SCP - united states; soviet union; no evidence; soviet invasion; afghan mujahideen; latino book awards; 
+Dice - united states; soviet union; no evidence; soviet invasion; afghan mujahideen; latino book awards; view of the city; 
+Mi - soviet union; no evidence; soviet invasion; afghan mujahideen; latino book awards; 
+
+fil_5179: 
+SCP - los angeles; prime minister; radio disney; previous episode; further north in the watershed; 
+Dice - los angeles; prime minister; radio disney; previous episode; further north in the watershed; 
+Mi - previous episode; 
+
+fil_523: 
+SCP - being killed; sexual health; mental illness; turbo file; life meter; power chips; film was produced; nes/family computer versions; alvin and the chipmunks; 
+Dice - difference between; april 1; being killed; take place; sexual health; mental illness; family computer; 4 lives; turbo file; life meter; power chips; each use; consists of five; film was produced; nes/family computer versions; alvin and the chipmunks; 
+Mi - being killed; sexual health; mental illness; power chips; film was produced; nes/family computer versions; alvin and the chipmunks; 
+
+fil_5238: 
+SCP - united states; san francisco; east side; took place; unincorporated community; north america; nelson d; powder river; 16th kansas; volunteer cavalry; 12th missouri; lieutenant colonel samuel; 
+Dice - united states; san francisco; east side; took place; unincorporated community; less than; north america; made him; nelson d; 25 men; 16th kansas; volunteer cavalry; 12th missouri; cavalry regiment; george bent; being held; lieutenant colonel samuel; 
+Mi - san francisco; east side; unincorporated community; nelson d; 
+
+fil_5279: 
+SCP - united states; associate professor; graduate program; unanimous decision; gained popularity; fine arts; twentieth century; expansionist policy; ã‡andarlä± halil; beylerbey of rumelia; 
+Dice - united states; four years; secondary schools; february 1; associate professor; made him; graduate program; unanimous decision; gained popularity; twentieth century; expansionist policy; main rival; ã‡andarlä± halil; beylerbey of rumelia; 
+Mi - associate professor; graduate program; unanimous decision; gained popularity; twentieth century; ã‡andarlä± halil; beylerbey of rumelia; 
+
+fil_5292: 
+SCP - administrative district; would remain; generations per; before divorcing; rq character; 
+Dice - many years; six years; would remain; been recorded; generations per; before divorcing; rq character; 
+Mi - generations per; before divorcing; rq character; 
+
+fil_613: 
+SCP - new york; franchise history; late 1960s; previous episode; gary hart; blue jays; toronto franchise; linear segment; world war ii; chicago white sox; zaphod and ford; reach the ground; 
+Dice - new york; franchise history; late 1960s; they won; previous episode; gary hart; blue jays; toronto franchise; linear segment; world war ii; chicago white sox; zaphod and ford; reach the ground; 
+Mi - late 1960s; previous episode; gary hart; blue jays; toronto franchise; linear segment; world war ii; chicago white sox; zaphod and ford; reach the ground; 
+
+fil_637: 
+SCP - east side; took place; national championships; 
+Dice - number 10; east side; took place; national championships; consists of five; 
+Mi - east side; national championships; 
+
+fil_660: 
+SCP - united states; san diego; 2010 season; san francisco; united kingdom; wide range; west bengal; sandstone statue; abu jahl; professor of geology; 
+Dice - united states; too late; san diego; 2010 season; san francisco; united kingdom; wide range; became professor; west bengal; sandstone statue; several years; abu jahl; professor of geology; 
+Mi - 2010 season; san francisco; wide range; west bengal; abu jahl; professor of geology; 
+
+fil_708: 
+SCP - high school; united kingdom; common name; st andrew's; sharply criticized; de felice; rocky river; jack paar; george rogers clark; list of episodes; italian communist party; rogers clark national historical; 
+Dice - high school; united kingdom; historical park; common name; st andrew's; sharply criticized; de felice; italian communist; rocky river; jack paar; list of episodes; rogers clark national historical; 
+Mi - common name; sharply criticized; de felice; rocky river; george rogers clark; list of episodes; italian communist party; rogers clark national historical; 
+
+fil_755: 
+SCP - united states; number ten; following year; pacific ocean; early life; early part; äáº¡i viá»‡t; fats and oils; 
+Dice - united states; number ten; took part; following year; 10 members; pulled out; pacific ocean; early life; early part; they won; äáº¡i viá»‡t; every two years; fats and oils; 
+Mi - number ten; following year; pacific ocean; early life; early part; äáº¡i viá»‡t; fats and oils; 
+
+fil_794: 
+SCP - cao cao; cheng yu; cao cao's; cao pi; surrendered rebels; cao cao went west; 
+Dice - if you; cao cao; cheng yu; cao cao's; cao pi; being besieged; surrendered rebels; 
+Mi - cheng yu; cao cao's; cao pi; surrendered rebels; cao cao went west; 
+
+fil_818: 
+SCP - main sources; auto insurance; emigrated to canada; stewart and reid; better world insurance; 
+Dice - less than; main sources; auto insurance; emigrated to canada; stewart and reid; better world insurance; 
+Mi - main sources; emigrated to canada; better world insurance; 
+
+fil_820: 
+SCP - san diego; los angeles; doing so; channel 4's; jazz ensemble; products and services; social and economic; 
+Dice - san diego; los angeles; doing so; april 2010; channel 4's; jazz ensemble; products and services; social and economic; 
+Mi - jazz ensemble; 
+
+fil_891: 
+SCP - united states; new orleans; closely related; gold medal; fine arts; 
+Dice - united states; three years; new orleans; closely related; gold medal; 
+Mi - closely related; gold medal; 
+
+fil_911: 
+SCP - i think; high school; 19th century; large number; formerly known; small group; rural districts; ex officio; plural voting; rural sanitary; sanitary districts; ballyshannon no; 2 may 1940; logitech media server; propose to abolish; rural district council; 
+Dice - i think; high school; high schools; if i; 19th century; large number; local government; one man; formerly known; small group; december 6; rural districts; ex officio; plural voting; rural sanitary; sanitary districts; ballyshannon no; 2 may 1940; logitech media server; propose to abolish; rural district council; 
+Mi - 19th century; large number; formerly known; small group; ex officio; plural voting; sanitary districts; ballyshannon no; 2 may 1940; logitech media server; propose to abolish; rural district council; 
+
+fil_940: 
+SCP - chicago bears; franchise history; highest point; unsuccessful candidate; march 3; serving from march 4; 
+Dice - chicago bears; franchise history; highest point; unsuccessful candidate; march 4; march 3; serving from march 4; 
+Mi - chicago bears; highest point; unsuccessful candidate; march 3; serving from march 4; 
+
+fil_955: 
+SCP - united states; new york; july 26; prime minister; margaret thatcher; immersion program; secretary of state; 
+Dice - united states; new york; york city; july 26; prime minister; margaret thatcher; immersion program; secretary of state; left the band; 
+Mi - july 26; margaret thatcher; 
+
+fil_968: 
+SCP - united states; high school; west virginia; july 20; unincorporated community; x86 processor; school was built; roman catholic archdiocese; 
+Dice - united states; roman catholic; high school; west virginia; july 20; unincorporated community; what they; elementary school; february 2012; each use; x86 processor; trinity high; grant county; school was built; there is no; 
+Mi - july 20; unincorporated community; x86 processor; roman catholic archdiocese; trinity high school; 
+
+fil_980: 
+SCP - united states; summer olympics; prime minister; set up; existed before; early years; silver medal; 20th century; linguistic system; northernmost point; series of differences; language there are only differences; 
+Dice - united states; summer olympics; prime minister; set up; than any; existed before; one point; early years; because she; silver medal; 20th century; being held; several years; language there; positive terms; linguistic system; northernmost point; series of differences; language there are only differences; 
+Mi - existed before; early years; silver medal; 20th century; linguistic system; northernmost point; series of differences; language there are only differences; 
+
+fil_991: 
+SCP - disabled list; four members; sierra leone; 
+Dice - disabled list; four members; sierra leone; 
+Mi - four members; sierra leone; 
 
